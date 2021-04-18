@@ -1,5 +1,3 @@
-/* global Module Log */
-
 /* Magic Mirror
  * Module: MMM-TTS
  *

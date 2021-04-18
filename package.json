@@ -1,5 +1,5 @@
 {
-  "name": "MMM-NanoTTS",
+  "name": "mmm-nanotts",
   "version": "1.0.0",
   "description": "Text-To-Speech Module for MagicMirror2",
   "scripts": {
