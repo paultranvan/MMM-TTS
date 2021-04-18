@@ -1,5 +1,5 @@
 {
-  "name": "mmm-tts",
+  "name": "MMM-NanoTTS",
   "version": "1.0.0",
   "description": "Text-To-Speech Module for MagicMirror2",
   "scripts": {
@@ -20,11 +20,9 @@
   },
   "homepage": "https://github.com/fewieden/MMM-TTS#readme",
   "devDependencies": {
-    "eslint": "^3.14.1",
-    "eslint-config-airbnb-base": "^11.0.1",
-    "eslint-plugin-import": "^2.2.0"
-  },
-  "dependencies": {
-    "say": "^0.9.0"
+    "eslint": "^7.24.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "prettier": "^2.2.1"
   }
 }
